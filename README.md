@@ -509,6 +509,20 @@ Alan de Freitas](https://github.com/alandefreitas)
   A javascript library that lets you add stories EVERYWHERE  
   ![Stars](https://img.shields.io/github/stars/ramon82/zuck.js?style=flat-square)
 
+- **[extenso.js](https://github.com/portujs/extenso.js)** by [PortuJS](https://github.com/portujs)  
+  Convert number to words (in Portuguese).  
+  ![Stars](https://img.shields.io/github/stars/portujs/extenso.js?style=flat-square)
+
+- **[piii.js](https://github.com/portujs/piii.js)** by [PortuJS](https://github.com/portujs)  
+  A filter for bad words (in Portuguese).  
+  ![Stars](https://img.shields.io/github/stars/portujs/piii.js?style=flat-square)
+
+- **[pluralizador.js](https://github.com/portujs/pluralizador.js)** by [PortuJS](https://github.com/portujs)  
+   Pluralize Portuguese nouns.
+  ![Stars](https://img.shields.io/github/stars/portujs/pluralizador.js?style=flat-square)
+
+
+
 <a name="Lua"></a>
 
 ### Lua
